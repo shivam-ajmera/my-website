@@ -82,7 +82,7 @@ body {
   .laptop{
     height: 38vh;
     margin-top: 25vh;
-    transform: translateX(-23vw);
+    transform: translateX(-21vw);
   }
   .monitor{
     height: 42vh;

@@ -80,14 +80,14 @@ body {
 
 @media (max-width:1000px) {
   .laptop{
-    height: 42vh;
+    height: 40vh;
     margin-top: 25vh;
     transform: translateX(-23vw);
   }
   .monitor{
     height: 42vh;
     margin-top: 25vh;
-    transform: translateX(-15vw);
+    transform: translateX(-16vw);
   }
   .cap {
     transform: translateY(-10vh);

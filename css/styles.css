@@ -106,9 +106,12 @@ h4:hover{
 
 
 .bottom-container {
+  text-align: center;
   color: #000;
 }
+
 .middle-container {
+  text-align: center;
   color: #000;
 }
 .face {
@@ -147,8 +150,8 @@ h2{
     margin-right: 2vw;
     transform: translateY(-10vh);
     height: 70vh;
-    width: 75vw;
-    margin-bottom: -20vh;
+    width: 70vw;
+    margin-bottom: -30vh;
   }
 
   h1, h5, h7, h6{

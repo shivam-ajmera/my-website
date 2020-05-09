@@ -80,7 +80,7 @@ body {
 
 @media (max-width:1000px) {
   .laptop{
-    height: 40vh;
+    height: 38vh;
     margin-top: 25vh;
     transform: translateX(-23vw);
   }
@@ -90,10 +90,10 @@ body {
     transform: translateX(-16vw);
   }
   .cap {
-    transform: translateY(-13vh);
+    transform: translateY(-15vh);
   }
   .slideshow{
-    transform: translateY(23vh);
+    transform: translateY(26vh);
   }
   .caption{
     font-size: 10vw;

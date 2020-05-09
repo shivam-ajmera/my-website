@@ -124,6 +124,7 @@ h4:hover{
 h2{
   margin: 3vw auto 2vw auto;
 }
+
 .mo{
    position: absolute;
    align-self: center;
@@ -140,7 +141,26 @@ h2{
 .ntext{
   font-size:1.7vw;
 }
+
 @media (max-width:1000px) {
+  .bg{
+    /* transform: translateX(12vw); */
+    transform: translateY(-10vh);
+    height: 70vh;
+    width: 60vw;
+    margin-bottom: -20vh;
+  }
+
+  h1, h5, h7, h6{
+    display: none;
+  }
+  h4 {
+    font-size: 25vw;
+    transform: translate(-3vw, -25vh);
+  }
+  h4:hover{
+    opacity: 1;
+  }
   .burger{
     margin-top:1vw;
     height: 8vw;
@@ -159,9 +179,6 @@ h2{
     font-size:5vw;
   }
 
-  .dd{
-    /* background-color: #; */
-  }
   .box{
     padding-bottom: 15vw;
   }

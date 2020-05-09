@@ -147,7 +147,7 @@ h2{
 
 @media (max-width:1000px) {
   .bg{
-    margin-right: 3vw;
+    margin-right: 4vw;
     transform: translateY(-10vh);
     height: 65vh;
     width: 70vw;

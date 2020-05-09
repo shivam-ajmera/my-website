@@ -79,16 +79,38 @@ body {
 }
 
 @media (max-width:1000px) {
+  .laptop{
+    height: 42vh;
+    margin-top: 25vh;
+    transform: translateX(-20vw);
+  }
+  .monitor{
+    height: 42vh;
+    margin-top: 25vh;
+    transform: translateX(-13vw);
+  }
+  .cap {
+    transform: translateY(-10vh);
+  }
+  .slideshow{
+    transform: translateY(20vh);
+  }
   .caption{
-    font-size: 5vw;
+    font-size: 10vw;
     color:#fff;
   }
   .location{
     font-size: 3.5vw;
     opacity: 0.6;
   }
-  .pic{
+  .linkProject{
+    font-size: 2vh;
+  }
+  /* .pic{
     height:56vh;
+  } */
+  .indi{
+    transform: translateY(-10vh);
   }
   .burger{
     margin-top:1vw;

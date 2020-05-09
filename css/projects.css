@@ -90,10 +90,10 @@ body {
     transform: translateX(-16vw);
   }
   .cap {
-    transform: translateY(-10vh);
+    transform: translateY(-13vh);
   }
   .slideshow{
-    transform: translateY(20vh);
+    transform: translateY(23vh);
   }
   .caption{
     font-size: 10vw;

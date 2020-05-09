@@ -147,7 +147,7 @@ h2{
 
 @media (max-width:1000px) {
   .bg{
-    margin-right: 2vw;
+    margin-right: 3vw;
     transform: translateY(-10vh);
     height: 70vh;
     width: 70vw;
@@ -159,7 +159,7 @@ h2{
   }
   h4 {
     font-size: 25vw;
-    transform: translate(-3vw, -25vh);
+    transform: translate(-3vw, -15vh);
   }
   h4:hover{
     opacity: 1;

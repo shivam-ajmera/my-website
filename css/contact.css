@@ -83,7 +83,7 @@ text-shadow: 0.5vw 0.5vw 0 red;
 @media (max-width:1000px) {
   .we{
     text-shadow: 0.3vh 0.3vh 0 #000;
-    margin-top: 20vh;
+    margin-top: 17vh;
     font-size: 10vh;
     text-align: center;
   }
@@ -94,20 +94,20 @@ text-shadow: 0.5vw 0.5vw 0 red;
   }
 
   .ig{
-    margin-left: 9vw;
+    /* margin-left: 9vw; */
     font-size:12vh;
     margin-top:8vh;
   }
 
   .in{
     margin-top: 5vh;
-    margin-left: 18.5vw;
+    margin-left: 8.5vw;
     font-size:12vh;
   }
 
   .fb{
     margin-top: 5vh;
-    margin-left: 11vw;
+    /* margin-left: 11vw; */
     font-size:12vh;
   }
   .burger{

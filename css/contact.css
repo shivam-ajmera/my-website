@@ -82,7 +82,7 @@ text-shadow: 0.5vw 0.5vw 0 red;
 
 @media (max-width:1000px) {
   .we{
-    text-shadow: 0.3vh 0.3vh 0 #000;
+    text-shadow: 0.4vh 0.4vh 0 #000;
     margin-top: 17vh;
     font-size: 10vh;
     text-align: center;
